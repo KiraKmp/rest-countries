@@ -1,16 +1,29 @@
-# rest_countries
+# Country Info App
 
-A new Flutter project.
+A Flutter app that fetches and displays information about specific countries.
 
-## Getting Started
+## How to Run the Program
 
-This project is a starting point for a Flutter application.
+1. **Clone the repository:**
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   git clone https://github.com/yourusername/country_info_app.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Navigate to the project directory:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ```bash
+    cd country_info_app
+
+3. **Install dependencies:**
+
+    ```bash
+    flutter pub get
+
+4. **Run the app:**
+
+    ## Ensure you have a device or emulator running.
+    ## Use the following command to run the app:
+
+    ```bash
+    flutter run
+
